@@ -1,3 +1,6 @@
+
+reset和spread详解 https://www.cnblogs.com/tugenhua0707/p/7476625.html
+
 // 剩余运算符 ...
 function b(c, d) {
   console.log(c, d)
